@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: "PadhneAI Careers",
     images: [
       {
-        url: "/logo.svg",
+        url: "/logo.png",
         width: 600,
         height: 600,
         alt: "PadhneAI Logo",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     title: "PadhneAI Careers – Internship Applications",
     description:
       "Apply for internships at PadhneAI, Janakpur Nepal. Submit your resume to join our AI and software development team.",
-    images: ["/logo.svg"],
+    images: ["/logo.png"],
     creator: "@padhneai",
   },
   robots: {
@@ -83,7 +83,7 @@ export default function RootLayout({
               "@type": "Organization",
               name: "PadhneAI",
               url: "https://careers.padhneai.com",
-              logo: "https://careers.padhneai.com/logo.svg",
+              logo: "https://careers.padhneai.com/logo.png",
               sameAs: [
                 "https://www.facebook.com/padhneai",
                 "https://twitter.com/padhneai",

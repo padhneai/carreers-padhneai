@@ -31,7 +31,7 @@ const position = positionData[id as keyof typeof positionData];
       "@type": "Organization",
       name: "PadhneAI",
       sameAs: "https://padhneai.com",
-      logo: "https://careers.padhneai.com/logo.svg",
+      logo: "https://careers.padhneai.com/logo.png",
     },
     jobLocation: {
       "@type": "Place",
